@@ -1,0 +1,30 @@
+.navbar {
+  background-image: -webkit-gradient(linear, left top, left bottom, from(#f7f7f7),to(#eee));
+  margin: 10px;
+  padding-bottom: 0px;
+}
+.bloc_nav{
+	border-bottom: 0px solid black;
+}
+.help_block{
+  color: red;
+  font-style: italic;
+}
+
+.navbar-brand{
+	font-family: cursive;
+}
+.div_bordures{
+	margin: 10px;
+	min-height: 300px;
+}
+.list-group-item{
+	font-size: 1.5em;
+	width: 100%;
+	font-family: open sans;
+}
+.footer{
+	position: absolute;
+	left: 40%;
+	bottom: 10px;
+}
